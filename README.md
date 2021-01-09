@@ -2,4 +2,5 @@
 
 Ping Pong Games with HTML5 (without Canvas), CSS and Javascript
 
-![PONG](https://raw.githubusercontent.com/metintaslik/PingPongJS/main/PingPong.png?raw=true "Title")
+![KEYS](https://raw.githubusercontent.com/metintaslik/PingPongJS/main/Keys.png?raw=true "KEYS")
+![PONG](https://raw.githubusercontent.com/metintaslik/PingPongJS/main/PingPong.png?raw=true "PONG")
